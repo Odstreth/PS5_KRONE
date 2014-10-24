@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PS5_Krone</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="investmentAmount">Investment Amount</string><string name="action_settings">Settings</string>
+    
+    <string name="years">Years</string>
+    <string name="futureValue">Future Value</string><string name="interestRate">Annual Interest Rate</string>
+    
+    <string name="calculate">Calculate</string>
+
+</resources>
